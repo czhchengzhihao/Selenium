@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="登录测试套件">
+
+    <!--<test name="登录测试模块">
+        <classes>
+            <class name="com.selenium.login.Login">
+                <methods>
+                    <include name="LoginInfo"/>
+                </methods>
+            </class>
+        </classes>
+    </test>-->
+
+    <listeners>
+
+        <listener class-name="com.selenium.report.ReporterListener"/>
+
+    </listeners>
+
+</suite>
